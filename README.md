@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @danielogera
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Daniel Ogera Ongaki
+🎓 IT Student | 📈 Business Enthusiast | 💻 Developer
 
-<!---
-danielogera/danielogera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Currently working on web and mobile apps (React.js, React Native, Django)
+
+🌱 Learning advanced Python, Machine Learning, and UX/UI Design
+
+🚀 Passionate about startups, innovation, and solving real-world problems
+
+🎯 Focused on building impactful, user-centered software
+
+📫 How to reach me: [ogeradaniel933@gmail.com]
